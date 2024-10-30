@@ -1,0 +1,29 @@
+
+.buton {
+	background-color: #0f9b02; 
+	color: white;
+	border: none;
+	padding: 7px 30px;
+	border-radius: 50px;
+	font-size: 18px;
+		
+	cursor: pointer;
+	outline: none;
+	animation: scaleAnimation 2s infinite ease-in-out; 
+  }
+  
+  
+  @keyframes scaleAnimation {
+	0%, 100% {
+	  transform: scale(1); 
+	}
+	50% {
+	  transform: scale(1.2); 
+	}
+  }
+
+  .dopos{
+	width: 70%;
+	height: 500px;
+  }
+  

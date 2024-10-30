@@ -1,0 +1,132 @@
+{
+    "nav":{
+        "info":"Ma'lumotlar",
+        "about":"Biz haqimizda",
+        "enterprises":"Korxonalar",
+        "adv":"Yangiliklar",
+        "news":"Afzalliklarimiz",
+        "comm":"Aloqa"
+    },
+    "banner":{
+        "p":"Comfort Cleaning – Sifat va ishonch uyg'unligi",
+        "btn1":"Bizning xizmatlarimiz",
+        "btn2":"Bog'lanish"
+    },
+    "services":{
+        "h2":"Bizning xizmatlarimiz",
+        "p1":"Gilamlarni chuqur tozalash",
+        "p2":"Gilamlarni dog' va hidlardan tozalash",
+        "p3":"Gilamlarni dezinfeksiya qilish",
+        "p4":"Gilamlarni quritish va qayta yetkazib berish"
+    },
+    "ratings":{
+        "h2":"Ko‘proq Yuvdiring, Ko‘proq Tejamang: 30m²+ Uchun 10% Chegirma!",
+        "p1":"Hoziroq biz bilan bog‘laning va chegirmali xizmatimizdan foydalaning",
+        "p2":"Ob'ektlar",
+        "p3":"Maxsus jihozlar",
+        "p4":"bozorda 2 yil"
+    },
+    "dream":"Boshqa turdagi xizmatlarimiz ham mavjud.",
+    "projects":{
+        "h2":"Gilamni to'g'ri tanlash va parvarish qilish bo'yicha maslahatlar.",
+        "p1":"Gilamni sotib olayotganda, uning qaysi materialdan yasalganligini hisobga oling. Yungi, ipak, sintetik yoki paxta kabi materiallar har xil ko'rinish va chidamlilikka ega. Uyingizdagi ehtiyoj va uslubga mosini tanlang.",
+        "p2":"Gilam o'lchamini tanlashda xona hajmi va joylashuvni e'tiborga oling. Katta xonalar uchun katta gilamlar yaxshi ko'rinsa, kichik xonalarga mos o'lchamdagi gilamlar tanlash muhim.",
+        "p3":"Gilamni xonadagi ranglar va mebel dizayniga mos ravishda tanlang. Yorqin ranglar kichik xonalarni kengroq, neytral ranglar esa katta xonalarni qulayroq qiladi.",
+        "p4":"Gilamning uzoq muddat chiroyli ko'rinishi uchun uni muntazam ravishda tozalab turing. Har haftada changyutgich bilan tozalash va yilda bir marta chuqur tozalash kerak.",
+        "p5":"Gilamga to'kilgan suyuqlik yoki dog'larni zudlik bilan tozalash muhim. Maxsus gilam tozalagich yoki uy sharoitida tayyorlangan eritmalar yordamida dog'ni ketkazing.",
+        "p6":"Gilamni quyosh nuri yoki issiqdan uzoqroq joyda saqlang va muntazam ravishda xona havosini tozalang. Bu gilamning rangini va tuzilishini uzoqroq saqlab qoladi."
+    },
+	"maslahat":{
+       "m1":"Gilam Materialini To'g'ri Tanlash",
+	   "m2":"O'lcham va Joylashuvni Aniq Belgilash",
+	   "m3":"Rang va Dizaynni Moslashtirish",
+	   "m4":"Gilam Tozaligini Muntazam Saqlash",
+	   "m5":"Dog'larni Darhol Tozalash",
+	   "m6":" Gilamni Yaxshi Shamollatish"
+	},
+    "news":{
+		"title":"Bizning korxonamizning afzalliklari.",
+        "h2":"Barcha yangiliklarimiz",
+        "title1":"Eng zamonaviy yuvish uskunasi.",
+        "desc1":"Bizning zamonaviy yuvish uskunalarimiz gilamlaringizni tez va sifatli tarzda tozalaydi. Chuqur tozalash orqali barcha chang va allergenlar olib tashlanadi. Sifatli xizmat va arzon narxlar bilan sizning ishonchingizni qozonamiz!",
+		"title2":"Gilamga zarar yetkazmaslikni kafolatlaymiz.",
+        "desc2":"Bizning tajribali mutaxassislarimiz va zamonaviy uskunalarimiz gilamlaringizga zarar yetkazmasdan ularni mukammal tozalaydi. Har bir gilam turiga mos maxsus tozalash usullari qo‘llanilib, ularning sifatini saqlab qolish kafolatlanadi. Sizning mulkingiz biz uchun qadrli, shuning uchun tozalash jarayonida maksimal ehtiyotkorlik bilan ishlaymiz. ",
+		"title3":"Gilamlarni yuvish jarayonida insonlar va hayvonlar uchun xavfsiz vositalardan foydalanamiz.",
+        "desc3":"Bizning gilam yuvish xizmatimizda insonlar va hayvonlar uchun xavfsiz bo'lgan, ekologik toza yuvish vositalaridan foydalanamiz. Ushbu vositalar gilamlarni chuqur tozalab, ularning yangidek bo'lishini ta'minlaydi, shu bilan birga, salomatlikka hech qanday zarar yetkazmaydi. Sizga xavfsizlik va sifatni bir vaqtda taklif qilamiz!",
+		"title4":"Siz uchun qulay vaqtda bepul olib ketamiz va yetkazib beramiz.",
+        "desc4":"Bizning bepul yetkazib berish xizmatimiz sizning qulayligingizni ta'minlashga qaratilgan. Siz uchun eng yaxshi vaqtni tanlab, mahsulotlarni sizga yetkazib beramiz. Har bir buyurtma sizning ehtiyojlaringizni inobatga olgan holda, sifatli va tez bajariladi. Mijozlarimiz uchun eng yaxshi xizmat ko'rsatishga intilamiz!"
+    },
+	"faq":{
+		"question1":" Gilamlarni yuvish qancha vaqt oladi?",
+		"answer1":"Gilamlarni yuvish jarayoni odatda 3-5 kun davom etadi. Bu vaqt ichida gilamlar chuqur tozalanadi, quritiladi va yetkazib berish tayyorlanadi.",
+		"question2":"Sizning xizmatlaringiz narxi qanday aniqlanadi?",
+		"answer2":"Narxlar gilamning o‘lchami, materiali va tozalash darajasiga qarab belgilanadi. Biz ko'pincha kvadrat metrga asoslangan narxlarni taqdim etamiz. Maxsus buyurtmalar uchun esa narxni aniqlash uchun qo‘shimcha ma’lumot talab etiladi.",
+		"question3":"Gilamlarimga zarar yetkazilmaydimi?",
+		"answer3":"Yo‘q, bizning tajribali mutaxassislarimiz va zamonaviy uskunalarimiz gilamlarga zarar yetkazmaslikka kafolat beradi. Biz har bir gilam turiga mos maxsus tozalash usullarini qo‘llaymiz.",
+		"question4":" Yuvish jarayonida qanday vositalardan foydalanasiz?",
+		"answer4":"Biz ekologik toza va insonlar hamda hayvonlar uchun xavfsiz bo‘lgan tozalash vositalaridan foydalanamiz. Ushbu vositalar gilamlarni chuqur tozalaydi va zarar yetkazmaydi.",
+		"question5":"Gilamlarni olib ketish va yetkazib berish xizmati bormi?",
+		"answer5":"Ha, biz gilamlaringizni o‘zingiz uchun qulay bo‘lgan vaqtda bepul olib ketamiz va yetkazib beramiz. Siz faqat yuvish xizmatiga to‘lov qilasiz.",
+		"question6":"Har qanday gilamni yuvish mumkinmi?",
+		"answer6":"Biz ko‘plab gilam turlarini yuvamiz, jumladan, jun, ipak va sintetik gilamlar. Ammo juda nozik yoki qadimiy gilamlar uchun biz maxsus tozalash usullarini qo‘llaymiz yoki sizga alternativ tozalash usullarini tavsiya qilamiz."
+
+	},
+	"fadibac":{
+		"titel" : "Bizning xizmatimiz bo'yicha mijozlar bildirgan fikrlar.",
+		"fadi1":"Gilamlarimni yuvishga topshirgan edim va natijadan juda mamnunman. Gilamlar yangidek toza bo‘lib qaytdi! Xizmatlar tez va sifatli. Rahmat!",
+		"nam1":"",
+		"fadi2":"Gilamlarim juda katta edi va ularni tozalashda qiyinchiliklar bor edi. Ammo bu xizmatdan foydalanganimdan keyin ularning tozaligidan juda xursand bo‘ldim. Ishingizni qoyilmaqom qilib bajarasizlar!",
+		"nam2":"",
+		"fadi3":"Bir necha joydan dog‘lar bor edi, o‘ylab yurar edim bu dog‘larni hech qanday usul bilan yo‘qotib bo‘lmasa kerak deb. Lekin, bu xizmat meni ajablantirdi – dog‘lar butunlay ketdi! Tavsiya qilaman.",
+		"nam3":"",
+		"fadi4":"Xizmat juda oson va qulay edi. Uydan olib ketish va qaytarish hamda gilamlarimning yangi ko‘rinishda bo‘lishi menga juda yoqdi. Hozirning o‘zida qayta buyurtma bermoqchiman!",
+		"nam4":"",
+		"fadi5":"Gilamlarimda chang va hid bor edi. Ushbu tozalash xizmatidan so‘ng ularning yangidek bo‘lib qolganiga ishonmayman! Ajoyib xizmat va yaxshi mijozlarga munosabat.",
+		"nam5":"",
+		"fadi6":"Har bir mayda detalga e’tibor berilgan. Gilamlar toza, yumuq va yangidek bo‘lib qaytdi. Xizmatning sifati va samaradorligi meni hayratda qoldirdi",
+		"nam6":""
+        
+	},
+	"forma" : {
+        "name":"Ismingiz",
+        "phone":"Telefon Raqamingiz",
+        "manzl":"Manzilingiz ",
+        "project":"",
+        "message":"Xabar",
+        "btn":"Yuborish"
+	},
+
+    "enterprises":"Mijozlar tomonidan beriladigan eng ko'p savollar.",
+    "about":{
+        "h2":"ATAEV BAHODIR BUILD",
+        "p":"Biz shunchaki loyihalar yaratmaymiz, yangi imkoniyatlar yaratamiz. Davlat miqyosidagi inshootlarni qurish orqali biz kelajakni quryapmiz. Biz atrof-muhit haqida qayg'uramiz: kompaniya binolar va infratuzilmani qurish va ulardan foydalanish bilan bog'liq ekologik jihatlar uchun to'liq javobgarlikni o'z zimmasiga oladi.",
+        "a":"Batafsil bilish"
+    },
+    "form":{
+        "h2":"Savol, taklif va murojaatlar bormi?",
+        "name":"Ismingiz",
+        "phone":"Telefon Raqamingiz",
+        "message":"Xabarigniz",
+        "btn":"Yuborish"
+    },
+    "formsent":{
+        "success":"Muvaffaqiyatli yuborildi",
+        "error":"Yuborib bo'lmadi. Iltimos, yana bir bor urinib ko'ring"
+    },
+    "footer":{
+        "h4":"Kompaniyamiz",
+        "h42":"Aloqa",
+        "projects":"Bizning loyihalarimiz"
+    },
+	"vide":{
+       "videotitel": "Bizning ish jarayonimizdan lavhalar"
+	},
+	"modal":{
+		"titel":"Iltimos, ushbu formani to'ldiring.",
+		"ism": "Ismingiz",
+		"famila":"Familyangiz",
+		"tel":"telefon ingiz",
+		"telegram":"telegram useringiz",
+		"yubor":"Yuborish"
+	}
+}
